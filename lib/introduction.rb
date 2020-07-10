@@ -1,5 +1,5 @@
 #lib/introduction.RUBY_VERSION
 
-def introduction(name, ember.js)
+def introduction(name)
   puts "Hi, my name is #{name}."
 end
